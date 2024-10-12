@@ -1,4 +1,4 @@
-# QNN_dynamics
+# QNN-dynamics
 This repository contains the official Python implementation of [*Dynamical transition in controllable quantum neural networks with large depth*](https://arxiv.org/abs/2311.18144), an article by [Bingzhi Zhang](https://sites.google.com/view/bingzhi-zhang/home), [Junyu Liu](https://sites.google.com/view/junyuliu/main), [Xiao-Chuan Wu](https://scholar.google.com.hk/citations?user=ADEnvRwAAAAJ&hl=zh-CN), [Liang Jiang](https://pme.uchicago.edu/group/jiang-group), and [Quntao Zhuang](https://sites.usc.edu/zhuang).
 
 ## Citation
