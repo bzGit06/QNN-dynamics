@@ -16,7 +16,7 @@ This repository contains the official Python implementation of [*Dynamical trans
 ## Prerequisite
 The simulation of quantum circuits is performed via the [TensorCircuit](https://tensorcircuit.readthedocs.io/en/latest/#) package with [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) backend. Use of GPU is not required, but highly recommended. 
 
-Additionally, the packages [`opt_einsum`](https://optimized-einsum.readthedocs.io/en/stable/) is used for speeding up certain evaluation, and [Pennylane](https://docs.pennylane.ai/en/stable) is needed for perform experiment on IBM Quantum device.
+Additionally, the packages [`opt_einsum`](https://optimized-einsum.readthedocs.io/en/stable/) is used for speeding up certain evaluation, and [Pennylane](https://docs.pennylane.ai/en/stable) is needed for experiments on IBM Quantum device.
 
 
 
